@@ -476,7 +476,7 @@ GameObject:
   - component: {fileID: 1126270869}
   - component: {fileID: 1126270870}
   m_Layer: 0
-  m_Name: Foundry
+  m_Name: Spawn Test
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -556,6 +556,7 @@ MonoBehaviour:
   - {fileID: 2739656866214137452, guid: af0f26e2664878144a05b6ce4411da2a, type: 3}
   - {fileID: 2739656866214137452, guid: 6f7ab882d74057c488a4219f5ebdb666, type: 3}
   - {fileID: 2739656866214137452, guid: bb985d3fa5f77734892cb22d6be5be1f, type: 3}
+  _notificationsContainer: {fileID: 0}
 --- !u!4 &1311040488
 Transform:
   m_ObjectHideFlags: 0
