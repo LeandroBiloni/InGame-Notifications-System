@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e710c2aa68780a44880e6d7b5fe9baf, type: 3}
+  m_Name: Item Finished 2
+  m_EditorClassIdentifier: 
+  notificationType: 0
+  message: Item finished!
+  textColor: {r: 1, g: 1, b: 1, a: 1}
+  icon: {fileID: -6459868595381777773, guid: c8af6af70fac72342821472ed376b7ec, type: 3}
+  background: {fileID: 0}
+  backgroundColor: {r: 1, g: 0.84166646, b: 0.21226418, a: 1}
+  showTime: 8
+  fadeSpeed: 20
